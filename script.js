@@ -23,28 +23,28 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/602cd4c6666f944936662b0198553062.jpg',
+        img : '602cd4c6666f944936662b0198553062.jpg',
         name : 'Kadhal Asai',
         artist : 'Yuvan Shankar Raja',
-        music : 'music/Kadhal-Aasai.mp3'
+        music : 'Kadhal-Aasai.mp3'
     },
     {
-        img : 'images/sala.jpg',
+        img : 'sala.jpg',
         name : 'Falling Down',
         artist : 'Ravi Basrur',
-        music : 'music/Sound Of Salaar.mp3'
+        music : 'Sound Of Salaar.mp3'
     },
     {
-        img : 'images/F2X7e_7XIAEZ5t7.jpg',
+        img : 'F2X7e_7XIAEZ5t7.jpg',
         name : 'Koranaaru',
         artist : 'Deva, Santosh Hariharan',
         music : 'music/Koranaaru.mp3'
     },
     {
-        img : 'images/blue.jpg',
+        img : 'blue.jpg',
         name : 'Blue Star',
         artist : 'Pradeep Kumar',
-        music : 'music/Railin Oligal.mp3'
+        music : 'Railin Oligal.mp3'
     }
 ];
 
