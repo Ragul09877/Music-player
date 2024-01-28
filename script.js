@@ -30,7 +30,7 @@ const music_list = [
     },
     {
         img : 'sala.jpg',
-        name : 'Falling Down',
+        name : 'Sound Of Saalar',
         artist : 'Ravi Basrur',
         music : 'Sound Of Salaar.mp3'
     },
@@ -38,7 +38,7 @@ const music_list = [
         img : 'F2X7e_7XIAEZ5t7.jpg',
         name : 'Koranaaru',
         artist : 'Deva, Santosh Hariharan',
-        music : 'music/Koranaaru.mp3'
+        music : 'Koranaaru.mp3'
     },
     {
         img : 'blue.jpg',
